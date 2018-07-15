@@ -1,1 +1,9 @@
-INTRODUCTION (Prof. C.V. Jawahar)
+INTRODUCTION - 09:30 to 10:30 - (Prof. C.V. Jawahar)
+
+.Talked about significant problems in the field, and how various methods are being developed to deal with them. Domain adaptation is a problem where the testing data has a different distribution as compared to the training data. A different distribution in training data may arise due to different sampling methods, different modes of data collection, or different testing conditions. This limits the robustness of many commercial algorithms as seen in self driving cars and even Google Duplex. Data gathered for self driving cars is often under mild conditions, (eg. in daytime, when the weather is clear) and this causes the algorithm to underperform in new conditions. 
+
+A hypothetical, and very amusing Duplex conversation in India may go like this, if not accounting for a real world environment and having conversation in a controlled environment as shown in the Google keynote: https://www.youtube.com/watch?v=QY-BfXXLSZ8
+
+.Talked about traditional methods used in computer vison where we tried to use generalized algorithms like SIFT, Gabor filters and HOGs for pattern recognition. These methods were replaced by deep learning algorithms which given data taught itself to look for specific features and modify filters accordingly.
+
+.AlexNet destroys the world for many people in 2012. Machine Learning and Computer Vision will never be the same. The ImageNet Challenge of 2012 ushers in a new era of Deep Learning.
